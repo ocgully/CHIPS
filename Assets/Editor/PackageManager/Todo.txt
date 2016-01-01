@@ -1,0 +1,3 @@
+Provide command line access for:
+- Adding/Upgrading packages in a project
+- Enumerating all installed packages and their version number (useful for release notes)
