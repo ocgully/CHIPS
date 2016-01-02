@@ -1,0 +1,16 @@
+{
+	"Package": [{
+		"Id": "CHIPS",
+		"Name": "C.H.I.P.S.",
+		"Description": "A Unity Package Manager",
+		"GitUser": "ocgully",
+		"GitRepo": "CHIPS"
+		"Versions": {
+			"1.0.0": {
+				"Branch": "master",
+				"PackageType": "Source",
+				"RequiredPackages": []
+			}
+		}
+	}]
+}
