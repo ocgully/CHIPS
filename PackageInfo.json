@@ -1,5 +1,5 @@
 {
-	"Package": [{
+	"Package": {
 		"Id": "CHIPS",
 		"Name": "C.H.I.P.S.",
 		"Description": "A Unity Package Manager",
@@ -12,5 +12,5 @@
 				"RequiredPackages": []
 			}
 		}
-	}]
+	}
 }
